@@ -1,5 +1,5 @@
 # vim-utils
-vim utilities - compview, searchfold, dbext and spell (pt)
+vim utilities - compview, searchfold and spell (pt)
 
 
 to install in ~/.vim/bundle with pathogen:
@@ -21,6 +21,5 @@ my thanks to:
 
 * compview        http://www.vim.org/scripts/script.php?script_id=1803
 * searchfold      http://www.vim.org/scripts/script.php?script_id=1805
-* dbext           http://www.vim.org/scripts/script.php?script_id=356
 * pathogen        https://github.com/tpope/vim-pathogen
 * vundle          https://github.com/gmarik/Vundle.vim
